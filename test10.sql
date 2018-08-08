@@ -1,5 +1,3 @@
-select * from trk_group where group_id in (2661007,2661008);
-/
 INSERT INTO edi.code_value 
 VALUES      ( code_value_seq.NEXTVAL, 
              (SELECT code_set 
