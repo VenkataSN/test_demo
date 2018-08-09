@@ -1,5 +1,5 @@
 SELECT     TO_CHAR ( SYSDATE
           , 'fmMM/DD/YYYY'
           )          AS today
-FROM    dual1
+FROM    dual
 ;
