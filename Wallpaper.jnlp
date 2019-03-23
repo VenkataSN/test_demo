@@ -2,7 +2,7 @@
 <!-- JNLP File for WallpaperProject -->
 <jnlp
   spec="1.0+"
-  codebase="http://java.sun.com/docs/books/tutorialJWS/uiswing/components"
+  codebase="https://github.com/VenkataSN/Db_test"
   href="Wallpaper.jnlp">
   <information>
     <title>WallpaperProject</title>
