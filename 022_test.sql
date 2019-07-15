@@ -4,7 +4,7 @@ VALUES      ( code_value_seq.NEXTVAL,
               FROM   edi.code_set 
               WHERE  code_set_name = 'FUNCTIONAL_TRANSACTION_STATUS'), 
              'EPAYMENT_RECON_JENKINS_SAMPLE', 
-             'Test  For Jenkins Integration', 
+             'Test  For Jenkins Integration_01', 
              1, 
              SYSDATE, 
              SYSDATE, 
