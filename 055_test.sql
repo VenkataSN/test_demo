@@ -1,1 +1,1 @@
-select sydate from dual;
+select sysdate from dual;
