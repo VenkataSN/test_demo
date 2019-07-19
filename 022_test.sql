@@ -10,4 +10,4 @@ VALUES      ( code_value_seq.NEXTVAL,
              SYSDATE, 
              SYSDATE);
              
-    COMMIT;
+
